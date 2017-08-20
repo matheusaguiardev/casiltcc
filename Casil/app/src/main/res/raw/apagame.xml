@@ -1,0 +1,2551 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<relatorio>
+    <vendaTotal>231786.25</vendaTotal>
+    <ticketMedio>1913.78</ticketMedio>
+    <cuponsEmitidos>200</cuponsEmitidos>
+    <cestaMedia>50</cestaMedia>
+    <grafico>
+        <ponto total = "8000.20" data = "2017-05-01" />
+        <ponto total = "9000.20" data = "2017-05-07" />
+        <ponto total = "70000.20" data = "2017-05-14" />
+        <ponto total = "10000.20" data = "2017-05-21" />
+        <ponto total = "1000.20" data = "2017-05-28" />
+    </grafico>
+    <resumoDoPeriodo>
+        <finalizadorasOrdenadas>
+            <porVenda>
+                <finalizadora>
+                    <descricao>DINHEIRO</descricao>
+                    <valorTotal>35730.09</valorTotal>
+                    <quantidade>242</quantidade>
+                    <finalizadoraMedia>147.64</finalizadoraMedia>
+                </finalizadora>
+                <finalizadora>
+                    <descricao>CARTÃO CRÉDITO</descricao>
+                    <valorTotal>1700.00</valorTotal>
+                    <quantidade>19</quantidade>
+                    <finalizadoraMedia>89.47</finalizadoraMedia>
+                </finalizadora>
+                <finalizadora>
+                    <descricao>fidelização</descricao>
+                    <valorTotal>799.15</valorTotal>
+                    <quantidade>24</quantidade>
+                    <finalizadoraMedia>33.30</finalizadoraMedia>
+                </finalizadora>
+                <finalizadora>
+                    <descricao>Troca Finalizadora</descricao>
+                    <valorTotal>216.14</valorTotal>
+                    <quantidade>10</quantidade>
+                    <finalizadoraMedia>21.61</finalizadoraMedia>
+                </finalizadora>
+                <finalizadora>
+                    <descricao>Vale-Compra</descricao>
+                    <valorTotal>132.76</valorTotal>
+                    <quantidade>16</quantidade>
+                    <finalizadoraMedia>8.30</finalizadoraMedia>
+                </finalizadora>
+            </porVenda>
+            <porQuantidade>
+                <finalizadora>
+                    <descricao>CONVÊNIO</descricao>
+                    <valorTotal>12.00</valorTotal>
+                    <quantidade>2000</quantidade>
+                    <finalizadoraMedia>6.00</finalizadoraMedia>
+                </finalizadora>
+                <finalizadora>
+                    <descricao>DINHEIRO</descricao>
+                    <valorTotal>35730.09</valorTotal>
+                    <quantidade>242</quantidade>
+                    <finalizadoraMedia>147.64</finalizadoraMedia>
+                </finalizadora>
+                <finalizadora>
+                    <descricao>CARTÃO CRÉDITO</descricao>
+                    <valorTotal>1700.00</valorTotal>
+                    <quantidade>19</quantidade>
+                    <finalizadoraMedia>89.47</finalizadoraMedia>
+                </finalizadora>
+                <finalizadora>
+                    <descricao>fidelização</descricao>
+                    <valorTotal>799.15</valorTotal>
+                    <quantidade>24</quantidade>
+                    <finalizadoraMedia>33.30</finalizadoraMedia>
+                </finalizadora>
+                <finalizadora>
+                    <descricao>Troca Finalizadora</descricao>
+                    <valorTotal>216.14</valorTotal>
+                    <quantidade>10</quantidade>
+                    <finalizadoraMedia>21.61</finalizadoraMedia>
+                </finalizadora>
+            </porQuantidade>
+            <porFinalizacaoMedia>
+                <finalizadora>
+                    <descricao>CARTÃO CRÉDITO</descricao>
+                    <valorTotal>1700.00</valorTotal>
+                    <quantidade>19</quantidade>
+                    <finalizadoraMedia>89.47</finalizadoraMedia>
+                </finalizadora>
+                <finalizadora>
+                    <descricao>DINHEIRO</descricao>
+                    <valorTotal>35730.09</valorTotal>
+                    <quantidade>242</quantidade>
+                    <finalizadoraMedia>147.64</finalizadoraMedia>
+                </finalizadora>
+                <finalizadora>
+                    <descricao>fidelização</descricao>
+                    <valorTotal>799.15</valorTotal>
+                    <quantidade>24</quantidade>
+                    <finalizadoraMedia>33.30</finalizadoraMedia>
+                </finalizadora>
+                <finalizadora>
+                    <descricao>Troca Finalizadora</descricao>
+                    <valorTotal>216.14</valorTotal>
+                    <quantidade>10</quantidade>
+                    <finalizadoraMedia>21.61</finalizadoraMedia>
+                </finalizadora>
+                <finalizadora>
+                    <descricao>Vale-Compra</descricao>
+                    <valorTotal>132.76</valorTotal>
+                    <quantidade>16</quantidade>
+                    <finalizadoraMedia>8.30</finalizadoraMedia>
+                </finalizadora>
+            </porFinalizacaoMedia>
+        </finalizadorasOrdenadas>
+        <resumoPorHora>
+            <porHora hora="08:00h - 09:00h" venda="820.13" part="2%" />
+            <porHora hora="09:00h - 10:00h" venda="920.13" part="1%" />
+            <porHora hora="10:00h - 11:00h" venda="1220.13" part="2%" />
+            <porHora hora="11:00h - 12:00h" venda="1820.13" part="22%" />
+            <porHora hora="12:00h - 13:00h" venda="1920.13" part="25%" />
+            <porHora hora="13:00h - 14:00h" venda="820.13" part="22%" />
+            <porHora hora="14:00h - 15:00h" venda="920.13" part="11%" />
+            <porHora hora="15:00h - 16:00h" venda="1220.13" part="2%" />
+            <porHora hora="16:00h - 17:00h" venda="1820.13" part="2%" />
+            <porHora hora="17:00h - 18:00h" venda="1920.13" part="5%" />
+        </resumoPorHora>
+        <resumoVendas pagina="1/100">
+            <total>500000.00</total>
+            <porQuantidade>
+                <produto>
+                    <descricao>DIN DIN OrdemGeral</descricao>
+                    <valorTotal>440.99</valorTotal>
+                    <quantidade>32</quantidade>
+                    <precoMedio>20.00</precoMedio>
+                </produto>
+                <produto>
+                    <descricao>TINTA CANETA ESFEROG OrdemGeral</descricao>
+                    <valorTotal>196.99</valorTotal>
+                    <quantidade>20</quantidade>
+                    <precoMedio>2.40</precoMedio>
+                </produto>
+                <produto>
+                    <descricao>Mac Book Pro OrdemGeral</descricao>
+                    <valorTotal>50480.99</valorTotal>
+                    <quantidade>10</quantidade>
+                    <precoMedio>15.00</precoMedio>
+                </produto>
+                <produto>
+                    <descricao>produto 4</descricao>
+                    <valorTotal>50480.99</valorTotal>
+                    <quantidade>10</quantidade>
+                    <precoMedio>15.00</precoMedio>
+                </produto>
+                <produto>
+                    <descricao>produto 5</descricao>
+                    <valorTotal>50480.99</valorTotal>
+                    <quantidade>10</quantidade>
+                    <precoMedio>15.00</precoMedio>
+                </produto>
+                <produto>
+                    <descricao>produto 6</descricao>
+                    <valorTotal>50480.99</valorTotal>
+                    <quantidade>10</quantidade>
+                    <precoMedio>15.00</precoMedio>
+                </produto>
+                <produto>
+                    <descricao>produto 7</descricao>
+                    <valorTotal>50480.99</valorTotal>
+                    <quantidade>10</quantidade>
+                    <precoMedio>15.00</precoMedio>
+                </produto>
+                <produto>
+                    <descricao>produto 8</descricao>
+                    <valorTotal>50480.99</valorTotal>
+                    <quantidade>10</quantidade>
+                    <precoMedio>15.00</precoMedio>
+                </produto>
+                <produto>
+                    <descricao>produto 9</descricao>
+                    <valorTotal>50480.99</valorTotal>
+                    <quantidade>10</quantidade>
+                    <precoMedio>15.00</precoMedio>
+                </produto>
+                <produto>
+                    <descricao>produto 10</descricao>
+                    <valorTotal>50480.99</valorTotal>
+                    <quantidade>10</quantidade>
+                    <precoMedio>15.00</precoMedio>
+                </produto>
+            </porQuantidade>
+            <porVenda>
+                <produto>
+                    <descricao>DIN DIN OrdemGeral</descricao>
+                    <valorTotal>440.99</valorTotal>
+                    <quantidade>32</quantidade>
+                    <precoMedio>20.00</precoMedio>
+                </produto>
+                <produto>
+                    <descricao>TINTA CANETA ESFEROG OrdemGeral</descricao>
+                    <valorTotal>196.99</valorTotal>
+                    <quantidade>20</quantidade>
+                    <precoMedio>2.40</precoMedio>
+                </produto>
+                <produto>
+                    <descricao>Mac Book Pro OrdemGeral</descricao>
+                    <valorTotal>50480.99</valorTotal>
+                    <quantidade>10</quantidade>
+                    <precoMedio>15.00</precoMedio>
+                </produto>
+                <produto>
+                    <descricao>produto 4</descricao>
+                    <valorTotal>50480.99</valorTotal>
+                    <quantidade>10</quantidade>
+                    <precoMedio>15.00</precoMedio>
+                </produto>
+                <produto>
+                    <descricao>produto 5</descricao>
+                    <valorTotal>50480.99</valorTotal>
+                    <quantidade>10</quantidade>
+                    <precoMedio>15.00</precoMedio>
+                </produto>
+                <produto>
+                    <descricao>produto 6</descricao>
+                    <valorTotal>50480.99</valorTotal>
+                    <quantidade>10</quantidade>
+                    <precoMedio>15.00</precoMedio>
+                </produto>
+                <produto>
+                    <descricao>produto 7</descricao>
+                    <valorTotal>50480.99</valorTotal>
+                    <quantidade>10</quantidade>
+                    <precoMedio>15.00</precoMedio>
+                </produto>
+                <produto>
+                    <descricao>produto 8</descricao>
+                    <valorTotal>50480.99</valorTotal>
+                    <quantidade>10</quantidade>
+                    <precoMedio>15.00</precoMedio>
+                </produto>
+                <produto>
+                    <descricao>produto 9</descricao>
+                    <valorTotal>50480.99</valorTotal>
+                    <quantidade>10</quantidade>
+                    <precoMedio>15.00</precoMedio>
+                </produto>
+                <produto>
+                    <descricao>produto 10</descricao>
+                    <valorTotal>50480.99</valorTotal>
+                    <quantidade>10</quantidade>
+                    <precoMedio>15.00</precoMedio>
+                </produto>
+            </porVenda>
+            <porPrecoMedio>
+                <produto>
+                    <descricao>DIN DIN OrdemGeral</descricao>
+                    <valorTotal>440.99</valorTotal>
+                    <quantidade>32</quantidade>
+                    <precoMedio>20.00</precoMedio>
+                </produto>
+                <produto>
+                    <descricao>TINTA CANETA ESFEROG OrdemGeral</descricao>
+                    <valorTotal>196.99</valorTotal>
+                    <quantidade>20</quantidade>
+                    <precoMedio>2.40</precoMedio>
+                </produto>
+                <produto>
+                    <descricao>Mac Book Pro OrdemGeral</descricao>
+                    <valorTotal>50480.99</valorTotal>
+                    <quantidade>10</quantidade>
+                    <precoMedio>15.00</precoMedio>
+                </produto>
+                <produto>
+                    <descricao>produto 4</descricao>
+                    <valorTotal>50480.99</valorTotal>
+                    <quantidade>10</quantidade>
+                    <precoMedio>15.00</precoMedio>
+                </produto>
+                <produto>
+                    <descricao>produto 5</descricao>
+                    <valorTotal>50480.99</valorTotal>
+                    <quantidade>10</quantidade>
+                    <precoMedio>15.00</precoMedio>
+                </produto>
+                <produto>
+                    <descricao>produto 6</descricao>
+                    <valorTotal>50480.99</valorTotal>
+                    <quantidade>10</quantidade>
+                    <precoMedio>15.00</precoMedio>
+                </produto>
+                <produto>
+                    <descricao>produto 7</descricao>
+                    <valorTotal>50480.99</valorTotal>
+                    <quantidade>10</quantidade>
+                    <precoMedio>15.00</precoMedio>
+                </produto>
+                <produto>
+                    <descricao>produto 8</descricao>
+                    <valorTotal>50480.99</valorTotal>
+                    <quantidade>10</quantidade>
+                    <precoMedio>15.00</precoMedio>
+                </produto>
+                <produto>
+                    <descricao>produto 9</descricao>
+                    <valorTotal>50480.99</valorTotal>
+                    <quantidade>10</quantidade>
+                    <precoMedio>15.00</precoMedio>
+                </produto>
+                <produto>
+                    <descricao>produto 10</descricao>
+                    <valorTotal>50480.99</valorTotal>
+                    <quantidade>10</quantidade>
+                    <precoMedio>15.00</precoMedio>
+                </produto>
+            </porPrecoMedio>
+        </resumoVendas>
+        <secoes>
+            <secao>
+                <nomeSecao>Produtos de ponta</nomeSecao>
+                <valorTotal>5440.99</valorTotal>
+                <finalizacaoMedia>15.00</finalizacaoMedia>
+                <porQuantidade>
+                    <produto>
+                        <descricao>win32</descricao>
+                        <valorTotal>980.00</valorTotal>
+                        <quantidade>721</quantidade>
+                        <precoMedio>5.00</precoMedio>
+                    </produto>
+                    <produto>
+                        <descricao>Google Car Droid</descricao>
+                        <valorTotal>540.00</valorTotal>
+                        <quantidade>321</quantidade>
+                        <precoMedio>5.00</precoMedio>
+                    </produto>
+                    <produto>
+                        <descricao>RS-232</descricao>
+                        <valorTotal>196.00</valorTotal>
+                        <quantidade>40</quantidade>
+                        <precoMedio>2.40</precoMedio>
+                    </produto>
+                </porQuantidade>
+                <porVenda>
+                    <produto>
+                        <descricao>win32</descricao>
+                        <valorTotal>980.00</valorTotal>
+                        <quantidade>32</quantidade>
+                        <precoMedio>5.00</precoMedio>
+                    </produto>
+                    <produto>
+                        <descricao>Google Car Droid</descricao>
+                        <valorTotal>540.00</valorTotal>
+                        <quantidade>32</quantidade>
+                        <precoMedio>5.00</precoMedio>
+                    </produto>
+                    <produto>
+                        <descricao>RS-232</descricao>
+                        <valorTotal>196.00</valorTotal>
+                        <quantidade>40</quantidade>
+                        <precoMedio>2.40</precoMedio>
+                    </produto>
+                </porVenda>
+                <porPrecoMedio>
+                    <produto>
+                        <descricao>win32</descricao>
+                        <valorTotal>480.00</valorTotal>
+                        <quantidade>2</quantidade>
+                        <precoMedio>5.00</precoMedio>
+                    </produto>
+                    <produto>
+                        <descricao>Google Car Droid</descricao>
+                        <valorTotal>540.00</valorTotal>
+                        <quantidade>3</quantidade>
+                        <precoMedio>5.00</precoMedio>
+                    </produto>
+                    <produto>
+                        <descricao>RS-232</descricao>
+                        <valorTotal>196.00</valorTotal>
+                        <quantidade>4</quantidade>
+                        <precoMedio>2.40</precoMedio>
+                    </produto>
+                </porPrecoMedio>
+            </secao>
+            <secao>
+                <nomeSecao>Eletronicos</nomeSecao>
+                <valorTotal>1305440.99</valorTotal>
+                <finalizacaoMedia>30.00</finalizacaoMedia>
+                <porQuantidade>
+                    <produto>
+                        <descricao>Notebook</descricao>
+                        <valorTotal>433480.00</valorTotal>
+                        <quantidade>60</quantidade>
+                        <precoMedio>15.00</precoMedio>
+                    </produto>
+                    <produto>
+                        <descricao>SmartPhone</descricao>
+                        <valorTotal>217440.00</valorTotal>
+                        <quantidade>32</quantidade>
+                        <precoMedio>15.00</precoMedio>
+                    </produto>
+                    <produto>
+                        <descricao>Video Game</descricao>
+                        <valorTotal>25196.00</valorTotal>
+                        <quantidade>40</quantidade>
+                        <precoMedio>2.40</precoMedio>
+                    </produto>
+                </porQuantidade>
+                <porVenda>
+                    <produto>
+                        <descricao>Notebook</descricao>
+                        <valorTotal>3480.00</valorTotal>
+                        <quantidade>32</quantidade>
+                        <precoMedio>15.00</precoMedio>
+                    </produto>
+                    <produto>
+                        <descricao>SmartPhone</descricao>
+                        <valorTotal>2440.00</valorTotal>
+                        <quantidade>32</quantidade>
+                        <precoMedio>15.00</precoMedio>
+                    </produto>
+                    <produto>
+                        <descricao>Video Game</descricao>
+                        <valorTotal>1196.00</valorTotal>
+                        <quantidade>40</quantidade>
+                        <precoMedio>2.40</precoMedio>
+                    </produto>
+                </porVenda>
+                <porPrecoMedio>
+                    <produto>
+                        <descricao>Notebook</descricao>
+                        <valorTotal>3480.00</valorTotal>
+                        <quantidade>32</quantidade>
+                        <precoMedio>15.00</precoMedio>
+                    </produto>
+                    <produto>
+                        <descricao>SmartPhone</descricao>
+                        <valorTotal>2440.00</valorTotal>
+                        <quantidade>32</quantidade>
+                        <precoMedio>15.00</precoMedio>
+                    </produto>
+                    <produto>
+                        <descricao>Video Game</descricao>
+                        <valorTotal>1196.00</valorTotal>
+                        <quantidade>40</quantidade>
+                        <precoMedio>2.40</precoMedio>
+                    </produto>
+                </porPrecoMedio>
+            </secao>
+            <secao>
+                <nomeSecao>Sapatos</nomeSecao>
+                <valorTotal>15440.99</valorTotal>
+                <finalizacaoMedia>15.00</finalizacaoMedia>
+                <porQuantidade>
+                    <produto>
+                        <descricao>Bical</descricao>
+                        <valorTotal>980.00</valorTotal>
+                        <quantidade>32</quantidade>
+                        <precoMedio>5.00</precoMedio>
+                    </produto>
+                    <produto>
+                        <descricao>AllStar</descricao>
+                        <valorTotal>480.00</valorTotal>
+                        <quantidade>50</quantidade>
+                        <precoMedio>5.00</precoMedio>
+                    </produto>
+                    <produto>
+                        <descricao>NIKE SHORT</descricao>
+                        <valorTotal>5480.00</valorTotal>
+                        <quantidade>20</quantidade>
+                        <precoMedio>5.00</precoMedio>
+                    </produto>
+                </porQuantidade>
+                <porVenda>
+                    <produto>
+                        <descricao>Bical</descricao>
+                        <valorTotal>980.00</valorTotal>
+                        <quantidade>32</quantidade>
+                        <precoMedio>5.00</precoMedio>
+                    </produto>
+                    <produto>
+                        <descricao>AllStar</descricao>
+                        <valorTotal>480.00</valorTotal>
+                        <quantidade>50</quantidade>
+                        <precoMedio>5.00</precoMedio>
+                    </produto>
+                    <produto>
+                        <descricao>NIKE SHORT</descricao>
+                        <valorTotal>5480.00</valorTotal>
+                        <quantidade>20</quantidade>
+                        <precoMedio>5.00</precoMedio>
+                    </produto>
+                </porVenda>
+                <porPrecoMedio>
+                    <produto>
+                        <descricao>Bical</descricao>
+                        <valorTotal>980.00</valorTotal>
+                        <quantidade>32</quantidade>
+                        <precoMedio>5.00</precoMedio>
+                    </produto>
+                    <produto>
+                        <descricao>AllStar</descricao>
+                        <valorTotal>480.00</valorTotal>
+                        <quantidade>50</quantidade>
+                        <precoMedio>5.00</precoMedio>
+                    </produto>
+                    <produto>
+                        <descricao>NIKE SHORT</descricao>
+                        <valorTotal>5480.00</valorTotal>
+                        <quantidade>20</quantidade>
+                        <precoMedio>5.00</precoMedio>
+                    </produto>
+                </porPrecoMedio>
+            </secao>
+        </secoes>
+    </resumoDoPeriodo>
+    <lojas>
+        <loja nome="Apple">
+            <vendaTotal>20000.10</vendaTotal>
+            <ticketMedio>350</ticketMedio>
+            <cuponsEmitidos>60</cuponsEmitidos>
+            <cestaMedia>30</cestaMedia>
+            <secoes>
+                <secao>
+                    <nomeSecao>Produtos de ponta</nomeSecao>
+                    <valorTotal>5440.99</valorTotal>
+                    <finalizacaoMedia>15.00</finalizacaoMedia>
+                    <porQuantidade>
+                        <produto>
+                            <descricao>win32</descricao>
+                            <valorTotal>980.00</valorTotal>
+                            <quantidade>721</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>Google Car Droid</descricao>
+                            <valorTotal>540.00</valorTotal>
+                            <quantidade>321</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>RS-232</descricao>
+                            <valorTotal>196.00</valorTotal>
+                            <quantidade>40</quantidade>
+                            <precoMedio>2.40</precoMedio>
+                        </produto>
+                    </porQuantidade>
+                    <porVenda>
+                        <produto>
+                            <descricao>win32</descricao>
+                            <valorTotal>980.00</valorTotal>
+                            <quantidade>32</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>Google Car Droid</descricao>
+                            <valorTotal>540.00</valorTotal>
+                            <quantidade>32</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>RS-232</descricao>
+                            <valorTotal>196.00</valorTotal>
+                            <quantidade>40</quantidade>
+                            <precoMedio>2.40</precoMedio>
+                        </produto>
+                    </porVenda>
+                    <porPrecoMedio>
+                        <produto>
+                            <descricao>win32</descricao>
+                            <valorTotal>480.00</valorTotal>
+                            <quantidade>2</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>Google Car Droid</descricao>
+                            <valorTotal>540.00</valorTotal>
+                            <quantidade>3</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>RS-232</descricao>
+                            <valorTotal>196.00</valorTotal>
+                            <quantidade>4</quantidade>
+                            <precoMedio>2.40</precoMedio>
+                        </produto>
+                    </porPrecoMedio>
+                </secao>
+                <secao>
+                    <nomeSecao>Eletronicos</nomeSecao>
+                    <valorTotal>1305440.99</valorTotal>
+                    <finalizacaoMedia>30.00</finalizacaoMedia>
+                    <porQuantidade>
+                        <produto>
+                            <descricao>Notebook</descricao>
+                            <valorTotal>433480.00</valorTotal>
+                            <quantidade>60</quantidade>
+                            <precoMedio>15.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>SmartPhone</descricao>
+                            <valorTotal>217440.00</valorTotal>
+                            <quantidade>32</quantidade>
+                            <precoMedio>15.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>Video Game</descricao>
+                            <valorTotal>25196.00</valorTotal>
+                            <quantidade>40</quantidade>
+                            <precoMedio>2.40</precoMedio>
+                        </produto>
+                    </porQuantidade>
+                    <porVenda>
+                        <produto>
+                            <descricao>Notebook</descricao>
+                            <valorTotal>3480.00</valorTotal>
+                            <quantidade>32</quantidade>
+                            <precoMedio>15.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>SmartPhone</descricao>
+                            <valorTotal>2440.00</valorTotal>
+                            <quantidade>32</quantidade>
+                            <precoMedio>15.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>Video Game</descricao>
+                            <valorTotal>1196.00</valorTotal>
+                            <quantidade>40</quantidade>
+                            <precoMedio>2.40</precoMedio>
+                        </produto>
+                    </porVenda>
+                    <porPrecoMedio>
+                        <produto>
+                            <descricao>Notebook</descricao>
+                            <valorTotal>3480.00</valorTotal>
+                            <quantidade>32</quantidade>
+                            <precoMedio>15.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>SmartPhone</descricao>
+                            <valorTotal>2440.00</valorTotal>
+                            <quantidade>32</quantidade>
+                            <precoMedio>15.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>Video Game</descricao>
+                            <valorTotal>1196.00</valorTotal>
+                            <quantidade>40</quantidade>
+                            <precoMedio>2.40</precoMedio>
+                        </produto>
+                    </porPrecoMedio>
+                </secao>
+                <secao>
+                    <nomeSecao>Sapatos</nomeSecao>
+                    <valorTotal>15440.99</valorTotal>
+                    <finalizacaoMedia>15.00</finalizacaoMedia>
+                    <porQuantidade>
+                        <produto>
+                            <descricao>Bical</descricao>
+                            <valorTotal>980.00</valorTotal>
+                            <quantidade>32</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>AllStar</descricao>
+                            <valorTotal>480.00</valorTotal>
+                            <quantidade>50</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>NIKE SHORT</descricao>
+                            <valorTotal>5480.00</valorTotal>
+                            <quantidade>20</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                    </porQuantidade>
+                    <porVenda>
+                        <produto>
+                            <descricao>Bical</descricao>
+                            <valorTotal>980.00</valorTotal>
+                            <quantidade>32</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>AllStar</descricao>
+                            <valorTotal>480.00</valorTotal>
+                            <quantidade>50</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>NIKE SHORT</descricao>
+                            <valorTotal>5480.00</valorTotal>
+                            <quantidade>20</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                    </porVenda>
+                    <porPrecoMedio>
+                        <produto>
+                            <descricao>Bical</descricao>
+                            <valorTotal>980.00</valorTotal>
+                            <quantidade>32</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>AllStar</descricao>
+                            <valorTotal>480.00</valorTotal>
+                            <quantidade>50</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>NIKE SHORT</descricao>
+                            <valorTotal>5480.00</valorTotal>
+                            <quantidade>20</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                    </porPrecoMedio>
+                </secao>
+            </secoes>
+            <resumoPorHora>
+                <porHora hora="08:00h - 09:00h" venda="820.13" part="22%" />
+                <porHora hora="09:00h - 10:00h" venda="920.13" part="11%" />
+                <porHora hora="10:00h - 11:00h" venda="1220.13" part="12%" />
+                <porHora hora="11:00h - 12:00h" venda="1820.13" part="22%" />
+                <porHora hora="12:00h - 13:00h" venda="1920.13" part="25%" />
+                <porHora hora="13:00h - 14:00h" venda="820.13" part="22%" />
+                <porHora hora="14:00h - 15:00h" venda="920.13" part="11%" />
+                <porHora hora="15:00h - 16:00h" venda="1220.13" part="12%" />
+                <porHora hora="16:00h - 17:00h" venda="1820.13" part="22%" />
+                <porHora hora="17:00h - 18:00h" venda="1920.13" part="25%" />
+                <porHora hora="18:00h - 19:00h" venda="8920.13" part="85.5%" />
+            </resumoPorHora>
+            <finalizadorasOrdenadas>
+                <porVenda>
+                    <finalizadora>
+                        <descricao>DINHEIRO Apple</descricao>
+                        <valorTotal>35730.09</valorTotal>
+                        <quantidade>242</quantidade>
+                        <finalizadoraMedia>147.64</finalizadoraMedia>
+                    </finalizadora>
+                    <finalizadora>
+                        <descricao>CARTÃO CRÉDITO Apple</descricao>
+                        <valorTotal>1700.00</valorTotal>
+                        <quantidade>19</quantidade>
+                        <finalizadoraMedia>89.47</finalizadoraMedia>
+                    </finalizadora>
+                    <finalizadora>
+                        <descricao>fidelização Apple</descricao>
+                        <valorTotal>799.15</valorTotal>
+                        <quantidade>24</quantidade>
+                        <finalizadoraMedia>33.30</finalizadoraMedia>
+                    </finalizadora>
+                    <finalizadora>
+                        <descricao>Troca Finalizadora Apple</descricao>
+                        <valorTotal>216.14</valorTotal>
+                        <quantidade>10</quantidade>
+                        <finalizadoraMedia>21.61</finalizadoraMedia>
+                    </finalizadora>
+                </porVenda>
+                <porQuantidade>
+                    <finalizadora>
+                        <descricao>CARTÃO CRÉDITO Apple</descricao>
+                        <valorTotal>1700.00</valorTotal>
+                        <quantidade>19</quantidade>
+                        <finalizadoraMedia>89.47</finalizadoraMedia>
+                    </finalizadora>
+                    <finalizadora>
+                        <descricao>DINHEIRO Apple</descricao>
+                        <valorTotal>35730.09</valorTotal>
+                        <quantidade>242</quantidade>
+                        <finalizadoraMedia>147.64</finalizadoraMedia>
+                    </finalizadora>
+                    <finalizadora>
+                        <descricao>fidelização Apple</descricao>
+                        <valorTotal>799.15</valorTotal>
+                        <quantidade>24</quantidade>
+                        <finalizadoraMedia>33.30</finalizadoraMedia>
+                    </finalizadora>
+                    <finalizadora>
+                        <descricao>Troca Finalizadora Apple</descricao>
+                        <valorTotal>216.14</valorTotal>
+                        <quantidade>10</quantidade>
+                        <finalizadoraMedia>21.61</finalizadoraMedia>
+                    </finalizadora>
+                </porQuantidade>
+                <porFinalizacaoMedia>
+                    <finalizadora>
+                        <descricao>CARTÃO CRÉDITO Apple</descricao>
+                        <valorTotal>1700.00</valorTotal>
+                        <quantidade>19</quantidade>
+                        <finalizadoraMedia>89.47</finalizadoraMedia>
+                    </finalizadora>
+                    <finalizadora>
+                        <descricao>DINHEIRO Apple</descricao>
+                        <valorTotal>35730.09</valorTotal>
+                        <quantidade>242</quantidade>
+                        <finalizadoraMedia>147.64</finalizadoraMedia>
+                    </finalizadora>
+                    <finalizadora>
+                        <descricao>fidelização Apple</descricao>
+                        <valorTotal>799.15</valorTotal>
+                        <quantidade>24</quantidade>
+                        <finalizadoraMedia>33.30</finalizadoraMedia>
+                    </finalizadora>
+                    <finalizadora>
+                        <descricao>Troca Finalizadora Apple</descricao>
+                        <valorTotal>216.14</valorTotal>
+                        <quantidade>10</quantidade>
+                        <finalizadoraMedia>21.61</finalizadoraMedia>
+                    </finalizadora>
+                </porFinalizacaoMedia>
+            </finalizadorasOrdenadas>
+            <vendasOrdenadas pagina="1/100">
+                <porQuantidade>
+                    <produto>
+                        <descricao>Mac Mini</descricao>
+                        <valorTotal>440.99</valorTotal>
+                        <quantidade>32</quantidade>
+                        <precoMedio>11.00</precoMedio>
+                    </produto>
+                    <produto>
+                        <descricao>Macbook pro</descricao>
+                        <valorTotal>196.99</valorTotal>
+                        <quantidade>20</quantidade>
+                        <precoMedio>17.00</precoMedio>
+                    </produto>
+                    <produto>
+                        <descricao>Macbook air</descricao>
+                        <valorTotal>850480.99</valorTotal>
+                        <quantidade>810</quantidade>
+                        <precoMedio>67.00</precoMedio>
+                    </produto>
+                    <produto>
+                        <descricao>Apple watch</descricao>
+                        <valorTotal>750480.99</valorTotal>
+                        <quantidade>1077</quantidade>
+                        <precoMedio>76.00</precoMedio>
+                    </produto>
+                    <produto>
+                        <descricao>Apple TV</descricao>
+                        <valorTotal>50480.99</valorTotal>
+                        <quantidade>10</quantidade>
+                        <precoMedio>6.00</precoMedio>
+                    </produto>
+                    <produto>
+                        <descricao>iPhone 6</descricao>
+                        <valorTotal>2350480.99</valorTotal>
+                        <quantidade>120</quantidade>
+                        <precoMedio>63.00</precoMedio>
+                    </produto>
+                    <produto>
+                        <descricao>iPhone 6s</descricao>
+                        <valorTotal>504180.99</valorTotal>
+                        <quantidade>110</quantidade>
+                        <precoMedio>16.00</precoMedio>
+                    </produto>
+                    <produto>
+                        <descricao>iPhone 7</descricao>
+                        <valorTotal>501480.99</valorTotal>
+                        <quantidade>103</quantidade>
+                        <precoMedio>16.00</precoMedio>
+                    </produto>
+                    <produto>
+                        <descricao>Macbook air</descricao>
+                        <valorTotal>50480.99</valorTotal>
+                        <quantidade>105</quantidade>
+                        <precoMedio>63.00</precoMedio>
+                    </produto>
+                    <produto>
+                        <descricao>iPhone 5s</descricao>
+                        <valorTotal>504280.99</valorTotal>
+                        <quantidade>101</quantidade>
+                        <precoMedio>6.00</precoMedio>
+                    </produto>
+                    <produto>
+                        <descricao>iPhone 5</descricao>
+                        <valorTotal>50480.99</valorTotal>
+                        <quantidade>10</quantidade>
+                        <precoMedio>62.00</precoMedio>
+                    </produto>
+                </porQuantidade>
+                <porVenda>
+                    <produto>
+                        <descricao>Apple watch</descricao>
+                        <valorTotal>1750480.99</valorTotal>
+                        <quantidade>1077</quantidade>
+                        <precoMedio>76.00</precoMedio>
+                    </produto>
+                    <produto>
+                        <descricao>Mac Mini</descricao>
+                        <valorTotal>440.99</valorTotal>
+                        <quantidade>32</quantidade>
+                        <precoMedio>11.00</precoMedio>
+                    </produto>
+                    <produto>
+                        <descricao>Macbook pro</descricao>
+                        <valorTotal>196.99</valorTotal>
+                        <quantidade>20</quantidade>
+                        <precoMedio>17.00</precoMedio>
+                    </produto>
+                    <produto>
+                        <descricao>Macbook air</descricao>
+                        <valorTotal>850480.99</valorTotal>
+                        <quantidade>810</quantidade>
+                        <precoMedio>67.00</precoMedio>
+                    </produto>
+                    <produto>
+                        <descricao>Apple TV</descricao>
+                        <valorTotal>50480.99</valorTotal>
+                        <quantidade>10</quantidade>
+                        <precoMedio>6.00</precoMedio>
+                    </produto>
+                    <produto>
+                        <descricao>iPhone 6</descricao>
+                        <valorTotal>2350480.99</valorTotal>
+                        <quantidade>120</quantidade>
+                        <precoMedio>63.00</precoMedio>
+                    </produto>
+                    <produto>
+                        <descricao>iPhone 6s</descricao>
+                        <valorTotal>504180.99</valorTotal>
+                        <quantidade>110</quantidade>
+                        <precoMedio>16.00</precoMedio>
+                    </produto>
+                    <produto>
+                        <descricao>iPhone 7</descricao>
+                        <valorTotal>501480.99</valorTotal>
+                        <quantidade>103</quantidade>
+                        <precoMedio>16.00</precoMedio>
+                    </produto>
+                    <produto>
+                        <descricao>Macbook air</descricao>
+                        <valorTotal>50480.99</valorTotal>
+                        <quantidade>105</quantidade>
+                        <precoMedio>63.00</precoMedio>
+                    </produto>
+                    <produto>
+                        <descricao>iPhone 5s</descricao>
+                        <valorTotal>504280.99</valorTotal>
+                        <quantidade>101</quantidade>
+                        <precoMedio>6.00</precoMedio>
+                    </produto>
+                    <produto>
+                        <descricao>iPhone 5</descricao>
+                        <valorTotal>50480.99</valorTotal>
+                        <quantidade>10</quantidade>
+                        <precoMedio>62.00</precoMedio>
+                    </produto>
+                </porVenda>
+                <porPrecoMedio>
+                    <produto>
+                        <descricao>iPhone 5</descricao>
+                        <valorTotal>50480.99</valorTotal>
+                        <quantidade>101</quantidade>
+                        <precoMedio>622.00</precoMedio>
+                    </produto>
+                    <produto>
+                        <descricao>Apple watch</descricao>
+                        <valorTotal>1750480.99</valorTotal>
+                        <quantidade>1077</quantidade>
+                        <precoMedio>76.00</precoMedio>
+                    </produto>
+                    <produto>
+                        <descricao>Mac Mini</descricao>
+                        <valorTotal>440.99</valorTotal>
+                        <quantidade>32</quantidade>
+                        <precoMedio>11.00</precoMedio>
+                    </produto>
+                    <produto>
+                        <descricao>Macbook pro</descricao>
+                        <valorTotal>196.99</valorTotal>
+                        <quantidade>20</quantidade>
+                        <precoMedio>17.00</precoMedio>
+                    </produto>
+                    <produto>
+                        <descricao>Macbook air</descricao>
+                        <valorTotal>850480.99</valorTotal>
+                        <quantidade>810</quantidade>
+                        <precoMedio>67.00</precoMedio>
+                    </produto>
+                    <produto>
+                        <descricao>Apple TV</descricao>
+                        <valorTotal>50480.99</valorTotal>
+                        <quantidade>10</quantidade>
+                        <precoMedio>6.00</precoMedio>
+                    </produto>
+                    <produto>
+                        <descricao>iPhone 6</descricao>
+                        <valorTotal>2350480.99</valorTotal>
+                        <quantidade>120</quantidade>
+                        <precoMedio>63.00</precoMedio>
+                    </produto>
+                    <produto>
+                        <descricao>iPhone 6s</descricao>
+                        <valorTotal>504180.99</valorTotal>
+                        <quantidade>110</quantidade>
+                        <precoMedio>16.00</precoMedio>
+                    </produto>
+                    <produto>
+                        <descricao>iPhone 7</descricao>
+                        <valorTotal>501480.99</valorTotal>
+                        <quantidade>103</quantidade>
+                        <precoMedio>16.00</precoMedio>
+                    </produto>
+                    <produto>
+                        <descricao>Macbook air</descricao>
+                        <valorTotal>50480.99</valorTotal>
+                        <quantidade>105</quantidade>
+                        <precoMedio>63.00</precoMedio>
+                    </produto>
+                    <produto>
+                        <descricao>iPhone 5s</descricao>
+                        <valorTotal>504280.99</valorTotal>
+                        <quantidade>101</quantidade>
+                        <precoMedio>6.00</precoMedio>
+                    </produto>
+                </porPrecoMedio>
+            </vendasOrdenadas>
+            <grafico>
+                <ponto total = "120000.20" data = "2017-05-01" />
+                <ponto total = "10000.20" data = "2017-05-07" />
+                <ponto total = "100300.20" data = "2017-05-14" />
+                <ponto total = "10400.20" data = "2017-05-21" />
+                <ponto total = "1205000.20" data = "2017-05-28" />
+            </grafico>
+        </loja>
+        <loja nome="Google">
+            <vendaTotal>20000.10</vendaTotal>
+            <ticketMedio>43.81</ticketMedio>
+            <cestaMedia>30</cestaMedia>
+            <cuponsEmitidos>60</cuponsEmitidos>
+            <secoes>
+                <secao>
+                    <nomeSecao>Frutas</nomeSecao>
+                    <valorTotal>5440.99</valorTotal>
+                    <finalizacaoMedia>15.00</finalizacaoMedia>
+                    <porQuantidade>
+                        <produto>
+                            <descricao>Mamão</descricao>
+                            <valorTotal>480.00</valorTotal>
+                            <quantidade>721</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>GoiGooglea</descricao>
+                            <valorTotal>540.00</valorTotal>
+                            <quantidade>321</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>Laranja</descricao>
+                            <valorTotal>196.00</valorTotal>
+                            <quantidade>40</quantidade>
+                            <precoMedio>2.40</precoMedio>
+                        </produto>
+                    </porQuantidade>
+                    <porVenda>
+                        <produto>
+                            <descricao>Mamão</descricao>
+                            <valorTotal>980.00</valorTotal>
+                            <quantidade>32</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>GoiGooglea</descricao>
+                            <valorTotal>540.00</valorTotal>
+                            <quantidade>32</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>Laranja</descricao>
+                            <valorTotal>196.00</valorTotal>
+                            <quantidade>40</quantidade>
+                            <precoMedio>2.40</precoMedio>
+                        </produto>
+                    </porVenda>
+                    <porPrecoMedio>
+                        <produto>
+                            <descricao>Mamão</descricao>
+                            <valorTotal>480.00</valorTotal>
+                            <quantidade>2</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>GoiGooglea</descricao>
+                            <valorTotal>540.00</valorTotal>
+                            <quantidade>3</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>Laranja</descricao>
+                            <valorTotal>196.00</valorTotal>
+                            <quantidade>4</quantidade>
+                            <precoMedio>2.40</precoMedio>
+                        </produto>
+                    </porPrecoMedio>
+                </secao>
+                <secao>
+                    <nomeSecao>Eletronicos</nomeSecao>
+                    <valorTotal>1305440.99</valorTotal>
+                    <finalizacaoMedia>30.00</finalizacaoMedia>
+                    <porQuantidade>
+                        <produto>
+                            <descricao>Notebook</descricao>
+                            <valorTotal>433480.00</valorTotal>
+                            <quantidade>60</quantidade>
+                            <precoMedio>15.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>SmartPhone</descricao>
+                            <valorTotal>217440.00</valorTotal>
+                            <quantidade>32</quantidade>
+                            <precoMedio>15.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>Video Game</descricao>
+                            <valorTotal>25196.00</valorTotal>
+                            <quantidade>40</quantidade>
+                            <precoMedio>2.40</precoMedio>
+                        </produto>
+                    </porQuantidade>
+                    <porVenda>
+                        <produto>
+                            <descricao>Notebook</descricao>
+                            <valorTotal>3480.00</valorTotal>
+                            <quantidade>32</quantidade>
+                            <precoMedio>15.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>SmartPhone</descricao>
+                            <valorTotal>2440.00</valorTotal>
+                            <quantidade>32</quantidade>
+                            <precoMedio>15.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>Video Game</descricao>
+                            <valorTotal>1196.00</valorTotal>
+                            <quantidade>40</quantidade>
+                            <precoMedio>2.40</precoMedio>
+                        </produto>
+                    </porVenda>
+                    <porPrecoMedio>
+                        <produto>
+                            <descricao>Notebook</descricao>
+                            <valorTotal>3480.00</valorTotal>
+                            <quantidade>32</quantidade>
+                            <precoMedio>15.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>SmartPhone</descricao>
+                            <valorTotal>2440.00</valorTotal>
+                            <quantidade>32</quantidade>
+                            <precoMedio>15.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>Video Game</descricao>
+                            <valorTotal>1196.00</valorTotal>
+                            <quantidade>40</quantidade>
+                            <precoMedio>2.40</precoMedio>
+                        </produto>
+                    </porPrecoMedio>
+                </secao>
+                <secao>
+                    <nomeSecao>Sapatos</nomeSecao>
+                    <valorTotal>15440.99</valorTotal>
+                    <finalizacaoMedia>15.00</finalizacaoMedia>
+                    <porQuantidade>
+                        <produto>
+                            <descricao>Bical</descricao>
+                            <valorTotal>980.00</valorTotal>
+                            <quantidade>32</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>AllStar</descricao>
+                            <valorTotal>480.00</valorTotal>
+                            <quantidade>50</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>NIKE SHORT</descricao>
+                            <valorTotal>5480.00</valorTotal>
+                            <quantidade>20</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                    </porQuantidade>
+                    <porVenda>
+                        <produto>
+                            <descricao>Bical</descricao>
+                            <valorTotal>980.00</valorTotal>
+                            <quantidade>32</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>AllStar</descricao>
+                            <valorTotal>480.00</valorTotal>
+                            <quantidade>50</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>NIKE SHORT</descricao>
+                            <valorTotal>5480.00</valorTotal>
+                            <quantidade>20</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                    </porVenda>
+                    <porPrecoMedio>
+                        <produto>
+                            <descricao>Bical</descricao>
+                            <valorTotal>980.00</valorTotal>
+                            <quantidade>32</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>AllStar</descricao>
+                            <valorTotal>480.00</valorTotal>
+                            <quantidade>50</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>NIKE SHORT</descricao>
+                            <valorTotal>5480.00</valorTotal>
+                            <quantidade>20</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                    </porPrecoMedio>
+                </secao>
+            </secoes>
+            <resumoPorHora>
+                <porHora hora="08:00h - 09:00h" venda="820.13" part="2%" />
+                <porHora hora="09:00h - 10:00h" venda="920.13" part="1%" />
+                <porHora hora="10:00h - 11:00h" venda="1220.13" part="2%" />
+                <porHora hora="11:00h - 12:00h" venda="1820.13" part="22%" />
+                <porHora hora="12:00h - 13:00h" venda="1920.13" part="25%" />
+                <porHora hora="13:00h - 14:00h" venda="820.13" part="22%" />
+                <porHora hora="14:00h - 15:00h" venda="920.13" part="11%" />
+                <porHora hora="15:00h - 16:00h" venda="1220.13" part="2%" />
+                <porHora hora="16:00h - 17:00h" venda="1820.13" part="2%" />
+                <porHora hora="17:00h - 18:00h" venda="1920.13" part="5%" />
+            </resumoPorHora>
+            <finalizadorasOrdenadas>
+                <porVenda>
+                    <finalizadora>
+                        <descricao>DINHEIRO Google</descricao>
+                        <valorTotal>35730.09</valorTotal>
+                        <quantidade>242</quantidade>
+                        <finalizadoraMedia>147.64</finalizadoraMedia>
+                    </finalizadora>
+                    <finalizadora>
+                        <descricao>CARTÃO CRÉDITO Google</descricao>
+                        <valorTotal>1700.00</valorTotal>
+                        <quantidade>19</quantidade>
+                        <finalizadoraMedia>89.47</finalizadoraMedia>
+                    </finalizadora>
+                    <finalizadora>
+                        <descricao>fidelização Google</descricao>
+                        <valorTotal>799.15</valorTotal>
+                        <quantidade>24</quantidade>
+                        <finalizadoraMedia>33.30</finalizadoraMedia>
+                    </finalizadora>
+                    <finalizadora>
+                        <descricao>Troca Finalizadora Google</descricao>
+                        <valorTotal>216.14</valorTotal>
+                        <quantidade>10</quantidade>
+                        <finalizadoraMedia>21.61</finalizadoraMedia>
+                    </finalizadora>
+                    <finalizadora>
+                        <descricao>Vale-Compra Google</descricao>
+                        <valorTotal>132.76</valorTotal>
+                        <quantidade>16</quantidade>
+                        <finalizadoraMedia>8.30</finalizadoraMedia>
+                    </finalizadora>
+                </porVenda>
+                <porQuantidade>
+                    <finalizadora>
+                        <descricao>CONVÊNIO Google</descricao>
+                        <valorTotal>12.00</valorTotal>
+                        <quantidade>2000</quantidade>
+                        <finalizadoraMedia>6.00</finalizadoraMedia>
+                    </finalizadora>
+                    <finalizadora>
+                        <descricao>DINHEIRO Google</descricao>
+                        <valorTotal>35730.09</valorTotal>
+                        <quantidade>242</quantidade>
+                        <finalizadoraMedia>147.64</finalizadoraMedia>
+                    </finalizadora>
+                    <finalizadora>
+                        <descricao>CARTÃO CRÉDITO Google</descricao>
+                        <valorTotal>1700.00</valorTotal>
+                        <quantidade>19</quantidade>
+                        <finalizadoraMedia>89.47</finalizadoraMedia>
+                    </finalizadora>
+                    <finalizadora>
+                        <descricao>fidelização Google</descricao>
+                        <valorTotal>799.15</valorTotal>
+                        <quantidade>24</quantidade>
+                        <finalizadoraMedia>33.30</finalizadoraMedia>
+                    </finalizadora>
+                    <finalizadora>
+                        <descricao>Troca Finalizadora</descricao>
+                        <valorTotal>216.14</valorTotal>
+                        <quantidade>10</quantidade>
+                        <finalizadoraMedia>21.61</finalizadoraMedia>
+                    </finalizadora>
+                </porQuantidade>
+                <porFinalizacaoMedia>
+                    <finalizadora>
+                        <descricao>CARTÃO CRÉDITO Google</descricao>
+                        <valorTotal>1700.00</valorTotal>
+                        <quantidade>19</quantidade>
+                        <finalizadoraMedia>89.47</finalizadoraMedia>
+                    </finalizadora>
+                    <finalizadora>
+                        <descricao>DINHEIRO Google</descricao>
+                        <valorTotal>35730.09</valorTotal>
+                        <quantidade>242</quantidade>
+                        <finalizadoraMedia>147.64</finalizadoraMedia>
+                    </finalizadora>
+                    <finalizadora>
+                        <descricao>fidelização Google</descricao>
+                        <valorTotal>799.15</valorTotal>
+                        <quantidade>24</quantidade>
+                        <finalizadoraMedia>33.30</finalizadoraMedia>
+                    </finalizadora>
+                    <finalizadora>
+                        <descricao>Troca Finalizadora Google</descricao>
+                        <valorTotal>216.14</valorTotal>
+                        <quantidade>10</quantidade>
+                        <finalizadoraMedia>21.61</finalizadoraMedia>
+                    </finalizadora>
+                    <finalizadora>
+                        <descricao>Vale-Compra Google</descricao>
+                        <valorTotal>132.76</valorTotal>
+                        <quantidade>16</quantidade>
+                        <finalizadoraMedia>8.30</finalizadoraMedia>
+                    </finalizadora>
+                </porFinalizacaoMedia>
+            </finalizadorasOrdenadas>
+            <vendasOrdenadas pagina="1/100">
+                <porQuantidade>
+                    <produto>
+                        <descricao>Google x</descricao>
+                        <valorTotal>440.99</valorTotal>
+                        <quantidade>32</quantidade>
+                        <precoMedio>17.00</precoMedio>
+                    </produto>
+                    <produto>
+                        <descricao>Google y</descricao>
+                        <valorTotal>196.99</valorTotal>
+                        <quantidade>20</quantidade>
+                        <precoMedio>1.00</precoMedio>
+                    </produto>
+                    <produto>
+                        <descricao>Google z</descricao>
+                        <valorTotal>50480.99</valorTotal>
+                        <quantidade>10</quantidade>
+                        <precoMedio>18.00</precoMedio>
+                    </produto>
+                </porQuantidade>
+                <porVenda>
+                    <produto>
+                        <descricao>Google x</descricao>
+                        <valorTotal>50480.99</valorTotal>
+                        <quantidade>10</quantidade>
+                        <precoMedio>87.00</precoMedio>
+                    </produto>
+                    <produto>
+                        <descricao>Google y</descricao>
+                        <valorTotal>440.99</valorTotal>
+                        <quantidade>32</quantidade>
+                        <precoMedio>7.00</precoMedio>
+                    </produto>
+                    <produto>
+                        <descricao>Google z</descricao>
+                        <valorTotal>196.99</valorTotal>
+                        <quantidade>20</quantidade>
+                        <precoMedio>174.00</precoMedio>
+                    </produto>
+                </porVenda>
+                <porPrecoMedio>
+                    <produto>
+                        <descricao>Google z</descricao>
+                        <valorTotal>50480.99</valorTotal>
+                        <quantidade>10</quantidade>
+                        <precoMedio>57.00</precoMedio>
+                    </produto>
+                    <produto>
+                        <descricao>Google x</descricao>
+                        <valorTotal>196.99</valorTotal>
+                        <quantidade>20</quantidade>
+                        <precoMedio>19.00</precoMedio>
+                    </produto>
+                    <produto>
+                        <descricao>Google y</descricao>
+                        <valorTotal>440.99</valorTotal>
+                        <quantidade>32</quantidade>
+                        <precoMedio>15.00</precoMedio>
+                    </produto>
+                </porPrecoMedio>
+            </vendasOrdenadas>
+            <grafico>
+                <ponto total = "1000.20" data = "2017-05-01" />
+                <ponto total = "10000.20" data = "2017-05-07" />
+                <ponto total = "10000.20" data = "2017-05-14" />
+                <ponto total = "1000.20" data = "2017-05-21" />
+                <ponto total = "10000.20" data = "2017-05-28" />
+            </grafico>
+        </loja>
+        <loja nome="Bar do Val">
+            <vendaTotal>69698.04</vendaTotal>
+            <ticketMedio>113.20</ticketMedio>
+            <cestaMedia>30</cestaMedia>
+            <cuponsEmitidos>60</cuponsEmitidos>
+            <secoes>
+                <secao>
+                    <nomeSecao>Frutas</nomeSecao>
+                    <valorTotal>5440.99</valorTotal>
+                    <finalizacaoMedia>15.00</finalizacaoMedia>
+                    <porQuantidade>
+                        <produto>
+                            <descricao>Mamão</descricao>
+                            <valorTotal>480.00</valorTotal>
+                            <quantidade>721</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>GoiGooglea</descricao>
+                            <valorTotal>540.00</valorTotal>
+                            <quantidade>321</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>Laranja</descricao>
+                            <valorTotal>196.00</valorTotal>
+                            <quantidade>40</quantidade>
+                            <precoMedio>2.40</precoMedio>
+                        </produto>
+                    </porQuantidade>
+                    <porVenda>
+                        <produto>
+                            <descricao>Mamão</descricao>
+                            <valorTotal>980.00</valorTotal>
+                            <quantidade>32</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>GoiGooglea</descricao>
+                            <valorTotal>540.00</valorTotal>
+                            <quantidade>32</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>Laranja</descricao>
+                            <valorTotal>196.00</valorTotal>
+                            <quantidade>40</quantidade>
+                            <precoMedio>2.40</precoMedio>
+                        </produto>
+                    </porVenda>
+                    <porPrecoMedio>
+                        <produto>
+                            <descricao>Mamão</descricao>
+                            <valorTotal>480.00</valorTotal>
+                            <quantidade>2</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>GoiGooglea</descricao>
+                            <valorTotal>540.00</valorTotal>
+                            <quantidade>3</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>Laranja</descricao>
+                            <valorTotal>196.00</valorTotal>
+                            <quantidade>4</quantidade>
+                            <precoMedio>2.40</precoMedio>
+                        </produto>
+                    </porPrecoMedio>
+                </secao>
+                <secao>
+                    <nomeSecao>Eletronicos</nomeSecao>
+                    <valorTotal>1305440.99</valorTotal>
+                    <finalizacaoMedia>30.00</finalizacaoMedia>
+                    <porQuantidade>
+                        <produto>
+                            <descricao>Notebook</descricao>
+                            <valorTotal>433480.00</valorTotal>
+                            <quantidade>60</quantidade>
+                            <precoMedio>15.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>SmartPhone</descricao>
+                            <valorTotal>217440.00</valorTotal>
+                            <quantidade>32</quantidade>
+                            <precoMedio>15.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>Video Game</descricao>
+                            <valorTotal>25196.00</valorTotal>
+                            <quantidade>40</quantidade>
+                            <precoMedio>2.40</precoMedio>
+                        </produto>
+                    </porQuantidade>
+                    <porVenda>
+                        <produto>
+                            <descricao>Notebook</descricao>
+                            <valorTotal>3480.00</valorTotal>
+                            <quantidade>32</quantidade>
+                            <precoMedio>15.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>SmartPhone</descricao>
+                            <valorTotal>2440.00</valorTotal>
+                            <quantidade>32</quantidade>
+                            <precoMedio>15.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>Video Game</descricao>
+                            <valorTotal>1196.00</valorTotal>
+                            <quantidade>40</quantidade>
+                            <precoMedio>2.40</precoMedio>
+                        </produto>
+                    </porVenda>
+                    <porPrecoMedio>
+                        <produto>
+                            <descricao>Notebook</descricao>
+                            <valorTotal>3480.00</valorTotal>
+                            <quantidade>32</quantidade>
+                            <precoMedio>15.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>SmartPhone</descricao>
+                            <valorTotal>2440.00</valorTotal>
+                            <quantidade>32</quantidade>
+                            <precoMedio>15.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>Video Game</descricao>
+                            <valorTotal>1196.00</valorTotal>
+                            <quantidade>40</quantidade>
+                            <precoMedio>2.40</precoMedio>
+                        </produto>
+                    </porPrecoMedio>
+                </secao>
+                <secao>
+                    <nomeSecao>Sapatos</nomeSecao>
+                    <valorTotal>15440.99</valorTotal>
+                    <finalizacaoMedia>15.00</finalizacaoMedia>
+                    <porQuantidade>
+                        <produto>
+                            <descricao>Bical</descricao>
+                            <valorTotal>980.00</valorTotal>
+                            <quantidade>32</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>AllStar</descricao>
+                            <valorTotal>480.00</valorTotal>
+                            <quantidade>50</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>NIKE SHORT</descricao>
+                            <valorTotal>5480.00</valorTotal>
+                            <quantidade>20</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                    </porQuantidade>
+                    <porVenda>
+                        <produto>
+                            <descricao>Bical</descricao>
+                            <valorTotal>980.00</valorTotal>
+                            <quantidade>32</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>AllStar</descricao>
+                            <valorTotal>480.00</valorTotal>
+                            <quantidade>50</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>NIKE SHORT</descricao>
+                            <valorTotal>5480.00</valorTotal>
+                            <quantidade>20</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                    </porVenda>
+                    <porPrecoMedio>
+                        <produto>
+                            <descricao>Bical</descricao>
+                            <valorTotal>980.00</valorTotal>
+                            <quantidade>32</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>AllStar</descricao>
+                            <valorTotal>480.00</valorTotal>
+                            <quantidade>50</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>NIKE SHORT</descricao>
+                            <valorTotal>5480.00</valorTotal>
+                            <quantidade>20</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                    </porPrecoMedio>
+                </secao>
+            </secoes>
+            <resumoPorHora>
+                <porHora hora="08:00h - 09:00h" venda="820.13" part="22%" />
+                <porHora hora="09:00h - 10:00h" venda="920.13" part="11%" />
+                <porHora hora="10:00h - 11:00h" venda="1220.13" part="12%" />
+                <porHora hora="11:00h - 12:00h" venda="1820.13" part="22%" />
+                <porHora hora="12:00h - 13:00h" venda="1920.13" part="25%" />
+                <porHora hora="13:00h - 14:00h" venda="820.13" part="22%" />
+                <porHora hora="14:00h - 15:00h" venda="920.13" part="11%" />
+                <porHora hora="15:00h - 16:00h" venda="1220.13" part="12%" />
+                <porHora hora="16:00h - 17:00h" venda="1820.13" part="22%" />
+                <porHora hora="17:00h - 18:00h" venda="1920.13" part="25%" />
+            </resumoPorHora>
+            <finalizadorasOrdenadas>
+                <porVenda>
+                    <finalizadora>
+                        <descricao>DINHEIRO Bar do Val</descricao>
+                        <valorTotal>35730.09</valorTotal>
+                        <quantidade>242</quantidade>
+                        <finalizadoraMedia>147.64</finalizadoraMedia>
+                    </finalizadora>
+                    <finalizadora>
+                        <descricao>CARTÃO CRÉDITO Bar do Val</descricao>
+                        <valorTotal>1700.00</valorTotal>
+                        <quantidade>19</quantidade>
+                        <finalizadoraMedia>89.47</finalizadoraMedia>
+                    </finalizadora>
+                    <finalizadora>
+                        <descricao>fidelização Bar do Val</descricao>
+                        <valorTotal>799.15</valorTotal>
+                        <quantidade>24</quantidade>
+                        <finalizadoraMedia>33.30</finalizadoraMedia>
+                    </finalizadora>
+                    <finalizadora>
+                        <descricao>Troca Finalizadora Bar do Val</descricao>
+                        <valorTotal>216.14</valorTotal>
+                        <quantidade>10</quantidade>
+                        <finalizadoraMedia>21.61</finalizadoraMedia>
+                    </finalizadora>
+                    <finalizadora>
+                        <descricao>Vale-Compra Bar do Val</descricao>
+                        <valorTotal>132.76</valorTotal>
+                        <quantidade>16</quantidade>
+                        <finalizadoraMedia>8.30</finalizadoraMedia>
+                    </finalizadora>
+                </porVenda>
+                <porQuantidade>
+                    <finalizadora>
+                        <descricao>CONVÊNIO Bar do Val</descricao>
+                        <valorTotal>12.00</valorTotal>
+                        <quantidade>2000</quantidade>
+                        <finalizadoraMedia>6.00</finalizadoraMedia>
+                    </finalizadora>
+                    <finalizadora>
+                        <descricao>DINHEIRO Bar do Val</descricao>
+                        <valorTotal>35730.09</valorTotal>
+                        <quantidade>242</quantidade>
+                        <finalizadoraMedia>147.64</finalizadoraMedia>
+                    </finalizadora>
+                    <finalizadora>
+                        <descricao>CARTÃO CRÉDITO Bar do Val</descricao>
+                        <valorTotal>1700.00</valorTotal>
+                        <quantidade>19</quantidade>
+                        <finalizadoraMedia>89.47</finalizadoraMedia>
+                    </finalizadora>
+                    <finalizadora>
+                        <descricao>fidelização Bar do Val</descricao>
+                        <valorTotal>799.15</valorTotal>
+                        <quantidade>24</quantidade>
+                        <finalizadoraMedia>33.30</finalizadoraMedia>
+                    </finalizadora>
+                    <finalizadora>
+                        <descricao>Troca Finalizadora</descricao>
+                        <valorTotal>216.14</valorTotal>
+                        <quantidade>10</quantidade>
+                        <finalizadoraMedia>21.61</finalizadoraMedia>
+                    </finalizadora>
+                </porQuantidade>
+                <porFinalizacaoMedia>
+                    <finalizadora>
+                        <descricao>CARTÃO CRÉDITO Bar do Val</descricao>
+                        <valorTotal>1700.00</valorTotal>
+                        <quantidade>19</quantidade>
+                        <finalizadoraMedia>89.47</finalizadoraMedia>
+                    </finalizadora>
+                    <finalizadora>
+                        <descricao>DINHEIRO Bar do Val</descricao>
+                        <valorTotal>35730.09</valorTotal>
+                        <quantidade>242</quantidade>
+                        <finalizadoraMedia>147.64</finalizadoraMedia>
+                    </finalizadora>
+                    <finalizadora>
+                        <descricao>fidelização Bar do Val</descricao>
+                        <valorTotal>799.15</valorTotal>
+                        <quantidade>24</quantidade>
+                        <finalizadoraMedia>33.30</finalizadoraMedia>
+                    </finalizadora>
+                    <finalizadora>
+                        <descricao>Troca Finalizadora Bar do Val</descricao>
+                        <valorTotal>216.14</valorTotal>
+                        <quantidade>10</quantidade>
+                        <finalizadoraMedia>21.61</finalizadoraMedia>
+                    </finalizadora>
+                    <finalizadora>
+                        <descricao>Vale-Compra Bar do Val</descricao>
+                        <valorTotal>132.76</valorTotal>
+                        <quantidade>16</quantidade>
+                        <finalizadoraMedia>8.30</finalizadoraMedia>
+                    </finalizadora>
+                </porFinalizacaoMedia>
+            </finalizadorasOrdenadas>
+            <vendasOrdenadas pagina="1/100">
+                <porQuantidade>
+                    <produto>
+                        <descricao>Mac Mini</descricao>
+                        <valorTotal>440.99</valorTotal>
+                        <quantidade>32</quantidade>
+                        <precoMedio>15.00</precoMedio>
+                    </produto>
+                    <produto>
+                        <descricao>Macbook pro</descricao>
+                        <valorTotal>196.99</valorTotal>
+                        <quantidade>20</quantidade>
+                        <precoMedio>12.00</precoMedio>
+                    </produto>
+                    <produto>
+                        <descricao>Macbook air</descricao>
+                        <valorTotal>50480.99</valorTotal>
+                        <quantidade>10</quantidade>
+                        <precoMedio>17.00</precoMedio>
+                    </produto>
+                </porQuantidade>
+                <porVenda>
+                    <produto>
+                        <descricao>Macbook air</descricao>
+                        <valorTotal>50480.99</valorTotal>
+                        <quantidade>10</quantidade>
+                        <precoMedio>19.00</precoMedio>
+                    </produto>
+                    <produto>
+                        <descricao>Mac mini</descricao>
+                        <valorTotal>440.99</valorTotal>
+                        <quantidade>32</quantidade>
+                        <precoMedio>51.00</precoMedio>
+                    </produto>
+                    <produto>
+                        <descricao>Macbook pro</descricao>
+                        <valorTotal>196.99</valorTotal>
+                        <quantidade>20</quantidade>
+                        <precoMedio>4.00</precoMedio>
+                    </produto>
+                </porVenda>
+                <porPrecoMedio>
+                    <produto>
+                        <descricao>Macbook Air</descricao>
+                        <valorTotal>50480.99</valorTotal>
+                        <quantidade>10</quantidade>
+                        <precoMedio>18.00</precoMedio>
+                    </produto>
+                    <produto>
+                        <descricao>Macbook pro</descricao>
+                        <valorTotal>196.99</valorTotal>
+                        <quantidade>20</quantidade>
+                        <precoMedio>154.00</precoMedio>
+                    </produto>
+                    <produto>
+                        <descricao>Mac mini</descricao>
+                        <valorTotal>440.99</valorTotal>
+                        <quantidade>32</quantidade>
+                        <precoMedio>19.00</precoMedio>
+                    </produto>
+                </porPrecoMedio>
+            </vendasOrdenadas>
+            <grafico>
+                <ponto total = "1000.20" data = "2017-05-01" />
+                <ponto total = "1000.20" data = "2017-05-07" />
+                <ponto total = "10000.20" data = "2017-05-14" />
+                <ponto total = "10000.20" data = "2017-05-21" />
+                <ponto total = "10000.20" data = "2017-05-28" />
+            </grafico>
+        </loja>
+        <loja nome="Casa Magalhães">
+            <vendaTotal>70969.00</vendaTotal>
+            <ticketMedio>80.75</ticketMedio>
+            <secoes>
+                <secao>
+                    <nomeSecao>Frutas</nomeSecao>
+                    <valorTotal>5440.99</valorTotal>
+                    <finalizacaoMedia>15.00</finalizacaoMedia>
+                    <porQuantidade>
+                        <produto>
+                            <descricao>Mamão</descricao>
+                            <valorTotal>480.00</valorTotal>
+                            <quantidade>721</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>GoiGooglea</descricao>
+                            <valorTotal>540.00</valorTotal>
+                            <quantidade>321</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>Laranja</descricao>
+                            <valorTotal>196.00</valorTotal>
+                            <quantidade>40</quantidade>
+                            <precoMedio>2.40</precoMedio>
+                        </produto>
+                    </porQuantidade>
+                    <porVenda>
+                        <produto>
+                            <descricao>Mamão</descricao>
+                            <valorTotal>980.00</valorTotal>
+                            <quantidade>32</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>GoiGooglea</descricao>
+                            <valorTotal>540.00</valorTotal>
+                            <quantidade>32</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>Laranja</descricao>
+                            <valorTotal>196.00</valorTotal>
+                            <quantidade>40</quantidade>
+                            <precoMedio>2.40</precoMedio>
+                        </produto>
+                    </porVenda>
+                    <porPrecoMedio>
+                        <produto>
+                            <descricao>Mamão</descricao>
+                            <valorTotal>480.00</valorTotal>
+                            <quantidade>2</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>GoiGooglea</descricao>
+                            <valorTotal>540.00</valorTotal>
+                            <quantidade>3</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>Laranja</descricao>
+                            <valorTotal>196.00</valorTotal>
+                            <quantidade>4</quantidade>
+                            <precoMedio>2.40</precoMedio>
+                        </produto>
+                    </porPrecoMedio>
+                </secao>
+                <secao>
+                    <nomeSecao>Eletronicos</nomeSecao>
+                    <valorTotal>1305440.99</valorTotal>
+                    <finalizacaoMedia>300000000000.00</finalizacaoMedia>
+                    <porQuantidade>
+                        <produto>
+                            <descricao>Notebook</descricao>
+                            <valorTotal>433480.00</valorTotal>
+                            <quantidade>60</quantidade>
+                            <precoMedio>15.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>SmartPhone</descricao>
+                            <valorTotal>217440.00</valorTotal>
+                            <quantidade>32</quantidade>
+                            <precoMedio>15.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>Video Game</descricao>
+                            <valorTotal>25196.00</valorTotal>
+                            <quantidade>40</quantidade>
+                            <precoMedio>2.40</precoMedio>
+                        </produto>
+                    </porQuantidade>
+                    <porVenda>
+                        <produto>
+                            <descricao>Notebook</descricao>
+                            <valorTotal>3480.00</valorTotal>
+                            <quantidade>32</quantidade>
+                            <precoMedio>15.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>SmartPhone</descricao>
+                            <valorTotal>2440.00</valorTotal>
+                            <quantidade>32</quantidade>
+                            <precoMedio>15.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>Video Game</descricao>
+                            <valorTotal>1196.00</valorTotal>
+                            <quantidade>40</quantidade>
+                            <precoMedio>2.40</precoMedio>
+                        </produto>
+                    </porVenda>
+                    <porPrecoMedio>
+                        <produto>
+                            <descricao>Notebook</descricao>
+                            <valorTotal>3480.00</valorTotal>
+                            <quantidade>32</quantidade>
+                            <precoMedio>15.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>SmartPhone</descricao>
+                            <valorTotal>2440.00</valorTotal>
+                            <quantidade>32</quantidade>
+                            <precoMedio>15.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>Video Game</descricao>
+                            <valorTotal>1196.00</valorTotal>
+                            <quantidade>40</quantidade>
+                            <precoMedio>2.40</precoMedio>
+                        </produto>
+                    </porPrecoMedio>
+                </secao>
+                <secao>
+                    <nomeSecao>Sapatos</nomeSecao>
+                    <valorTotal>15440.99</valorTotal>
+                    <finalizacaoMedia>15.00</finalizacaoMedia>
+                    <porQuantidade>
+                        <produto>
+                            <descricao>Bical</descricao>
+                            <valorTotal>980.00</valorTotal>
+                            <quantidade>32</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>AllStar</descricao>
+                            <valorTotal>480.00</valorTotal>
+                            <quantidade>50</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>NIKE SHORT</descricao>
+                            <valorTotal>5480.00</valorTotal>
+                            <quantidade>20</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                    </porQuantidade>
+                    <porVenda>
+                        <produto>
+                            <descricao>Bical</descricao>
+                            <valorTotal>980.00</valorTotal>
+                            <quantidade>32</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>AllStar</descricao>
+                            <valorTotal>480.00</valorTotal>
+                            <quantidade>50</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>NIKE SHORT</descricao>
+                            <valorTotal>5480.00</valorTotal>
+                            <quantidade>20</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                    </porVenda>
+                    <porPrecoMedio>
+                        <produto>
+                            <descricao>Bical</descricao>
+                            <valorTotal>980.00</valorTotal>
+                            <quantidade>32</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>AllStar</descricao>
+                            <valorTotal>480.00</valorTotal>
+                            <quantidade>50</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>NIKE SHORT</descricao>
+                            <valorTotal>5480.00</valorTotal>
+                            <quantidade>20</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                    </porPrecoMedio>
+                </secao>
+            </secoes>
+            <resumoPorHora>
+                <porHora hora="08:00h - 09:00h" venda="820.13" part="22%" />
+                <porHora hora="09:00h - 10:00h" venda="920.13" part="11%" />
+                <porHora hora="10:00h - 11:00h" venda="1220.13" part="12%" />
+                <porHora hora="11:00h - 12:00h" venda="1820.13" part="22%" />
+                <porHora hora="12:00h - 13:00h" venda="1920.13" part="25%" />
+                <porHora hora="13:00h - 14:00h" venda="820.13" part="22%" />
+                <porHora hora="14:00h - 15:00h" venda="920.13" part="11%" />
+                <porHora hora="15:00h - 16:00h" venda="1220.13" part="12%" />
+                <porHora hora="16:00h - 17:00h" venda="1820.13" part="22%" />
+                <porHora hora="17:00h - 18:00h" venda="1920.13" part="25%" />
+            </resumoPorHora>
+            <cestaMedia>30</cestaMedia>
+            <cuponsEmitidos>60</cuponsEmitidos>
+            <finalizadorasOrdenadas>
+                <porVenda>
+                    <finalizadora>
+                        <descricao>DINHEIRO Casa M.</descricao>
+                        <valorTotal>35730.09</valorTotal>
+                        <quantidade>242</quantidade>
+                        <finalizadoraMedia>147.64</finalizadoraMedia>
+                    </finalizadora>
+                    <finalizadora>
+                        <descricao>CARTÃO CRÉDITO Casa M.</descricao>
+                        <valorTotal>1700.00</valorTotal>
+                        <quantidade>19</quantidade>
+                        <finalizadoraMedia>89.47</finalizadoraMedia>
+                    </finalizadora>
+                    <finalizadora>
+                        <descricao>fidelização Casa M.</descricao>
+                        <valorTotal>799.15</valorTotal>
+                        <quantidade>24</quantidade>
+                        <finalizadoraMedia>33.30</finalizadoraMedia>
+                    </finalizadora>
+                    <finalizadora>
+                        <descricao>Troca Finalizadora Casa M.</descricao>
+                        <valorTotal>216.14</valorTotal>
+                        <quantidade>10</quantidade>
+                        <finalizadoraMedia>21.61</finalizadoraMedia>
+                    </finalizadora>
+                    <finalizadora>
+                        <descricao>Vale-Compra Casa M.</descricao>
+                        <valorTotal>132.76</valorTotal>
+                        <quantidade>16</quantidade>
+                        <finalizadoraMedia>8.30</finalizadoraMedia>
+                    </finalizadora>
+                </porVenda>
+                <porQuantidade>
+                    <finalizadora>
+                        <descricao>CONVÊNIO Casa M.</descricao>
+                        <valorTotal>12.00</valorTotal>
+                        <quantidade>2000</quantidade>
+                        <finalizadoraMedia>6.00</finalizadoraMedia>
+                    </finalizadora>
+                    <finalizadora>
+                        <descricao>DINHEIRO Casa M.</descricao>
+                        <valorTotal>35730.09</valorTotal>
+                        <quantidade>242</quantidade>
+                        <finalizadoraMedia>147.64</finalizadoraMedia>
+                    </finalizadora>
+                    <finalizadora>
+                        <descricao>CARTÃO CRÉDITO Casa M.</descricao>
+                        <valorTotal>1700.00</valorTotal>
+                        <quantidade>19</quantidade>
+                        <finalizadoraMedia>89.47</finalizadoraMedia>
+                    </finalizadora>
+                    <finalizadora>
+                        <descricao>fidelização Casa M.</descricao>
+                        <valorTotal>799.15</valorTotal>
+                        <quantidade>24</quantidade>
+                        <finalizadoraMedia>33.30</finalizadoraMedia>
+                    </finalizadora>
+                    <finalizadora>
+                        <descricao>Troca Finalizadora</descricao>
+                        <valorTotal>216.14</valorTotal>
+                        <quantidade>10</quantidade>
+                        <finalizadoraMedia>21.61</finalizadoraMedia>
+                    </finalizadora>
+                </porQuantidade>
+                <porFinalizacaoMedia>
+                    <finalizadora>
+                        <descricao>CARTÃO CRÉDITO Casa M.</descricao>
+                        <valorTotal>1700.00</valorTotal>
+                        <quantidade>19</quantidade>
+                        <finalizadoraMedia>89.47</finalizadoraMedia>
+                    </finalizadora>
+                    <finalizadora>
+                        <descricao>DINHEIRO Casa M.</descricao>
+                        <valorTotal>35730.09</valorTotal>
+                        <quantidade>242</quantidade>
+                        <finalizadoraMedia>147.64</finalizadoraMedia>
+                    </finalizadora>
+                    <finalizadora>
+                        <descricao>fidelização Casa M.</descricao>
+                        <valorTotal>799.15</valorTotal>
+                        <quantidade>24</quantidade>
+                        <finalizadoraMedia>33.30</finalizadoraMedia>
+                    </finalizadora>
+                    <finalizadora>
+                        <descricao>Troca Finalizadora Casa M.</descricao>
+                        <valorTotal>216.14</valorTotal>
+                        <quantidade>10</quantidade>
+                        <finalizadoraMedia>21.61</finalizadoraMedia>
+                    </finalizadora>
+                    <finalizadora>
+                        <descricao>Vale-Compra Casa M.</descricao>
+                        <valorTotal>132.76</valorTotal>
+                        <quantidade>16</quantidade>
+                        <finalizadoraMedia>8.30</finalizadoraMedia>
+                    </finalizadora>
+                </porFinalizacaoMedia>
+            </finalizadorasOrdenadas>
+            <vendasOrdenadas pagina="1/100">
+                <porQuantidade>
+                    <produto>
+                        <descricao>Mac Mini</descricao>
+                        <valorTotal>440.99</valorTotal>
+                        <quantidade>32</quantidade>
+                        <precoMedio>14.00</precoMedio>
+                    </produto>
+                    <produto>
+                        <descricao>Macbook pro</descricao>
+                        <valorTotal>196.99</valorTotal>
+                        <quantidade>20</quantidade>
+                        <precoMedio>177.00</precoMedio>
+                    </produto>
+                    <produto>
+                        <descricao>Macbook air</descricao>
+                        <valorTotal>50480.99</valorTotal>
+                        <quantidade>10</quantidade>
+                        <precoMedio>12.00</precoMedio>
+                    </produto>
+                </porQuantidade>
+                <porVenda>
+                    <produto>
+                        <descricao>Macbook air</descricao>
+                        <valorTotal>50480.99</valorTotal>
+                        <quantidade>10</quantidade>
+                        <precoMedio>18.00</precoMedio>
+                    </produto>
+                    <produto>
+                        <descricao>Mac mini</descricao>
+                        <valorTotal>440.99</valorTotal>
+                        <quantidade>32</quantidade>
+                        <precoMedio>18.00</precoMedio>
+                    </produto>
+                    <produto>
+                        <descricao>Macbook pro</descricao>
+                        <valorTotal>196.99</valorTotal>
+                        <quantidade>20</quantidade>
+                        <precoMedio>1.00</precoMedio>
+                    </produto>
+                </porVenda>
+                <porPrecoMedio>
+                    <produto>
+                        <descricao>Macbook Air</descricao>
+                        <valorTotal>50480.99</valorTotal>
+                        <quantidade>10</quantidade>
+                        <precoMedio>9.00</precoMedio>
+                    </produto>
+                    <produto>
+                        <descricao>Macbook pro</descricao>
+                        <valorTotal>196.99</valorTotal>
+                        <quantidade>20</quantidade>
+                        <precoMedio>7.00</precoMedio>
+                    </produto>
+                    <produto>
+                        <descricao>Mac mini</descricao>
+                        <valorTotal>440.99</valorTotal>
+                        <quantidade>32</quantidade>
+                        <precoMedio>45.00</precoMedio>
+                    </produto>
+                </porPrecoMedio>
+            </vendasOrdenadas>
+            <grafico>
+                <ponto total = "1000.20" data = "2017-05-01" />
+                <ponto total = "10000.20" data = "2017-05-07" />
+                <ponto total = "1000.20" data = "2017-05-14" />
+                <ponto total = "10000.20" data = "2017-05-21" />
+                <ponto total = "1000000.20" data = "2017-05-28" />
+            </grafico>
+        </loja>
+        <loja nome="Perdigão">
+            <vendaTotal>51118.99</vendaTotal>
+            <ticketMedio>72.00</ticketMedio>
+            <cestaMedia>30</cestaMedia>
+            <cuponsEmitidos>60</cuponsEmitidos>
+            <secoes>
+                <secao>
+                    <nomeSecao>Frutas</nomeSecao>
+                    <valorTotal>5440.99</valorTotal>
+                    <finalizacaoMedia>15.00</finalizacaoMedia>
+                    <porQuantidade>
+                        <produto>
+                            <descricao>Mamão</descricao>
+                            <valorTotal>480.00</valorTotal>
+                            <quantidade>721</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>GoiGooglea</descricao>
+                            <valorTotal>540.00</valorTotal>
+                            <quantidade>321</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>Laranja</descricao>
+                            <valorTotal>196.00</valorTotal>
+                            <quantidade>40</quantidade>
+                            <precoMedio>2.40</precoMedio>
+                        </produto>
+                    </porQuantidade>
+                    <porVenda>
+                        <produto>
+                            <descricao>Mamão</descricao>
+                            <valorTotal>980.00</valorTotal>
+                            <quantidade>32</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>GoiGooglea</descricao>
+                            <valorTotal>540.00</valorTotal>
+                            <quantidade>32</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>Laranja</descricao>
+                            <valorTotal>196.00</valorTotal>
+                            <quantidade>40</quantidade>
+                            <precoMedio>2.40</precoMedio>
+                        </produto>
+                    </porVenda>
+                    <porPrecoMedio>
+                        <produto>
+                            <descricao>Mamão</descricao>
+                            <valorTotal>480.00</valorTotal>
+                            <quantidade>2</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>GoiGooglea</descricao>
+                            <valorTotal>540.00</valorTotal>
+                            <quantidade>3</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>Laranja</descricao>
+                            <valorTotal>196.00</valorTotal>
+                            <quantidade>4</quantidade>
+                            <precoMedio>2.40</precoMedio>
+                        </produto>
+                    </porPrecoMedio>
+                </secao>
+                <secao>
+                    <nomeSecao>Eletronicos</nomeSecao>
+                    <valorTotal>1305440.99</valorTotal>
+                    <finalizacaoMedia>30.00</finalizacaoMedia>
+                    <porQuantidade>
+                        <produto>
+                            <descricao>Notebook</descricao>
+                            <valorTotal>433480.00</valorTotal>
+                            <quantidade>60</quantidade>
+                            <precoMedio>15.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>SmartPhone</descricao>
+                            <valorTotal>217440.00</valorTotal>
+                            <quantidade>32</quantidade>
+                            <precoMedio>15.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>Video Game</descricao>
+                            <valorTotal>25196.00</valorTotal>
+                            <quantidade>40</quantidade>
+                            <precoMedio>2.40</precoMedio>
+                        </produto>
+                    </porQuantidade>
+                    <porVenda>
+                        <produto>
+                            <descricao>Notebook</descricao>
+                            <valorTotal>3480.00</valorTotal>
+                            <quantidade>32</quantidade>
+                            <precoMedio>15.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>SmartPhone</descricao>
+                            <valorTotal>2440.00</valorTotal>
+                            <quantidade>32</quantidade>
+                            <precoMedio>15.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>Video Game</descricao>
+                            <valorTotal>1196.00</valorTotal>
+                            <quantidade>40</quantidade>
+                            <precoMedio>2.40</precoMedio>
+                        </produto>
+                    </porVenda>
+                    <porPrecoMedio>
+                        <produto>
+                            <descricao>Notebook</descricao>
+                            <valorTotal>3480.00</valorTotal>
+                            <quantidade>32</quantidade>
+                            <precoMedio>15.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>SmartPhone</descricao>
+                            <valorTotal>2440.00</valorTotal>
+                            <quantidade>32</quantidade>
+                            <precoMedio>15.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>Video Game</descricao>
+                            <valorTotal>1196.00</valorTotal>
+                            <quantidade>40</quantidade>
+                            <precoMedio>2.40</precoMedio>
+                        </produto>
+                    </porPrecoMedio>
+                </secao>
+                <secao>
+                    <nomeSecao>Sapatos</nomeSecao>
+                    <valorTotal>15440.99</valorTotal>
+                    <finalizacaoMedia>15.00</finalizacaoMedia>
+                    <porQuantidade>
+                        <produto>
+                            <descricao>Bical</descricao>
+                            <valorTotal>980.00</valorTotal>
+                            <quantidade>32</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>AllStar</descricao>
+                            <valorTotal>480.00</valorTotal>
+                            <quantidade>50</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>NIKE SHORT</descricao>
+                            <valorTotal>5480.00</valorTotal>
+                            <quantidade>20</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                    </porQuantidade>
+                    <porVenda>
+                        <produto>
+                            <descricao>Bical</descricao>
+                            <valorTotal>980.00</valorTotal>
+                            <quantidade>32</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>AllStar</descricao>
+                            <valorTotal>480.00</valorTotal>
+                            <quantidade>50</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>NIKE SHORT</descricao>
+                            <valorTotal>5480.00</valorTotal>
+                            <quantidade>20</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                    </porVenda>
+                    <porPrecoMedio>
+                        <produto>
+                            <descricao>Bical</descricao>
+                            <valorTotal>980.00</valorTotal>
+                            <quantidade>32</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>AllStar</descricao>
+                            <valorTotal>480.00</valorTotal>
+                            <quantidade>50</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                        <produto>
+                            <descricao>NIKE SHORT</descricao>
+                            <valorTotal>5480.00</valorTotal>
+                            <quantidade>20</quantidade>
+                            <precoMedio>5.00</precoMedio>
+                        </produto>
+                    </porPrecoMedio>
+                </secao>
+            </secoes>
+            <resumoPorHora>
+                <porHora hora="08:00h - 09:00h" venda="820.13" part="22%" />
+                <porHora hora="09:00h - 10:00h" venda="920.13" part="11%" />
+                <porHora hora="10:00h - 11:00h" venda="1220.13" part="12%" />
+                <porHora hora="11:00h - 12:00h" venda="1820.13" part="22%" />
+                <porHora hora="12:00h - 13:00h" venda="1920.13" part="25%" />
+                <porHora hora="13:00h - 14:00h" venda="820.13" part="22%" />
+                <porHora hora="14:00h - 15:00h" venda="920.13" part="11%" />
+                <porHora hora="15:00h - 16:00h" venda="1220.13" part="12%" />
+                <porHora hora="16:00h - 17:00h" venda="1820.13" part="22%" />
+                <porHora hora="17:00h - 18:00h" venda="1920.13" part="25%" />
+            </resumoPorHora>
+            <finalizadorasOrdenadas>
+                <porVenda>
+                    <finalizadora>
+                        <descricao>DINHEIRO Sadia</descricao>
+                        <valorTotal>35730.09</valorTotal>
+                        <quantidade>242</quantidade>
+                        <finalizadoraMedia>147.64</finalizadoraMedia>
+                    </finalizadora>
+                    <finalizadora>
+                        <descricao>CARTÃO CRÉDITO Sadia</descricao>
+                        <valorTotal>1700.00</valorTotal>
+                        <quantidade>19</quantidade>
+                        <finalizadoraMedia>89.47</finalizadoraMedia>
+                    </finalizadora>
+                    <finalizadora>
+                        <descricao>fidelização Sadia</descricao>
+                        <valorTotal>799.15</valorTotal>
+                        <quantidade>24</quantidade>
+                        <finalizadoraMedia>33.30</finalizadoraMedia>
+                    </finalizadora>
+                    <finalizadora>
+                        <descricao>Troca Finalizadora Sadia</descricao>
+                        <valorTotal>216.14</valorTotal>
+                        <quantidade>10</quantidade>
+                        <finalizadoraMedia>21.61</finalizadoraMedia>
+                    </finalizadora>
+                    <finalizadora>
+                        <descricao>Vale-Compra Sadia</descricao>
+                        <valorTotal>132.76</valorTotal>
+                        <quantidade>16</quantidade>
+                        <finalizadoraMedia>8.30</finalizadoraMedia>
+                    </finalizadora>
+                </porVenda>
+                <porQuantidade>
+                    <finalizadora>
+                        <descricao>CONVÊNIO Sadia</descricao>
+                        <valorTotal>12.00</valorTotal>
+                        <quantidade>2000</quantidade>
+                        <finalizadoraMedia>6.00</finalizadoraMedia>
+                    </finalizadora>
+                    <finalizadora>
+                        <descricao>DINHEIRO Sadia</descricao>
+                        <valorTotal>35730.09</valorTotal>
+                        <quantidade>242</quantidade>
+                        <finalizadoraMedia>147.64</finalizadoraMedia>
+                    </finalizadora>
+                    <finalizadora>
+                        <descricao>CARTÃO CRÉDITO Sadia</descricao>
+                        <valorTotal>1700.00</valorTotal>
+                        <quantidade>19</quantidade>
+                        <finalizadoraMedia>89.47</finalizadoraMedia>
+                    </finalizadora>
+                    <finalizadora>
+                        <descricao>fidelização Sadia</descricao>
+                        <valorTotal>799.15</valorTotal>
+                        <quantidade>24</quantidade>
+                        <finalizadoraMedia>33.30</finalizadoraMedia>
+                    </finalizadora>
+                    <finalizadora>
+                        <descricao>Troca Finalizadora</descricao>
+                        <valorTotal>216.14</valorTotal>
+                        <quantidade>10</quantidade>
+                        <finalizadoraMedia>21.61</finalizadoraMedia>
+                    </finalizadora>
+                </porQuantidade>
+                <porFinalizacaoMedia>
+                    <finalizadora>
+                        <descricao>CARTÃO CRÉDITO Sadia</descricao>
+                        <valorTotal>1700.00</valorTotal>
+                        <quantidade>19</quantidade>
+                        <finalizadoraMedia>89.47</finalizadoraMedia>
+                    </finalizadora>
+                    <finalizadora>
+                        <descricao>DINHEIRO Sadia</descricao>
+                        <valorTotal>35730.09</valorTotal>
+                        <quantidade>242</quantidade>
+                        <finalizadoraMedia>147.64</finalizadoraMedia>
+                    </finalizadora>
+                    <finalizadora>
+                        <descricao>fidelização Sadia</descricao>
+                        <valorTotal>799.15</valorTotal>
+                        <quantidade>24</quantidade>
+                        <finalizadoraMedia>33.30</finalizadoraMedia>
+                    </finalizadora>
+                    <finalizadora>
+                        <descricao>Troca Finalizadora Sadia</descricao>
+                        <valorTotal>216.14</valorTotal>
+                        <quantidade>10</quantidade>
+                        <finalizadoraMedia>21.61</finalizadoraMedia>
+                    </finalizadora>
+                    <finalizadora>
+                        <descricao>Vale-Compra Sadia</descricao>
+                        <valorTotal>132.76</valorTotal>
+                        <quantidade>16</quantidade>
+                        <finalizadoraMedia>8.30</finalizadoraMedia>
+                    </finalizadora>
+                </porFinalizacaoMedia>
+            </finalizadorasOrdenadas>
+            <vendasOrdenadas pagina="1/100">
+                <porQuantidade>
+                    <produto>
+                        <descricao>Mac Mini</descricao>
+                        <valorTotal>440.99</valorTotal>
+                        <quantidade>32</quantidade>
+                        <precoMedio>15.00</precoMedio>
+                    </produto>
+                    <produto>
+                        <descricao>Macbook pro</descricao>
+                        <valorTotal>196.99</valorTotal>
+                        <quantidade>20</quantidade>
+                        <precoMedio>12.00</precoMedio>
+                    </produto>
+                    <produto>
+                        <descricao>Macbook air</descricao>
+                        <valorTotal>50480.99</valorTotal>
+                        <quantidade>10</quantidade>
+                        <precoMedio>13.00</precoMedio>
+                    </produto>
+                </porQuantidade>
+                <porVenda>
+                    <produto>
+                        <descricao>Macbook air</descricao>
+                        <valorTotal>50480.99</valorTotal>
+                        <quantidade>10</quantidade>
+                        <precoMedio>19.00</precoMedio>
+                    </produto>
+                    <produto>
+                        <descricao>Mac mini</descricao>
+                        <valorTotal>440.99</valorTotal>
+                        <quantidade>32</quantidade>
+                        <precoMedio>16.00</precoMedio>
+                    </produto>
+                    <produto>
+                        <descricao>Macbook pro</descricao>
+                        <valorTotal>196.99</valorTotal>
+                        <quantidade>20</quantidade>
+                        <precoMedio>15.00</precoMedio>
+                    </produto>
+                </porVenda>
+                <porPrecoMedio>
+                    <produto>
+                        <descricao>Macbook Air</descricao>
+                        <valorTotal>50480.99</valorTotal>
+                        <quantidade>10</quantidade>
+                        <precoMedio>26.00</precoMedio>
+                    </produto>
+                    <produto>
+                        <descricao>Macbook pro</descricao>
+                        <valorTotal>196.99</valorTotal>
+                        <quantidade>20</quantidade>
+                        <precoMedio>35.00</precoMedio>
+                    </produto>
+                    <produto>
+                        <descricao>Mac mini</descricao>
+                        <valorTotal>440.99</valorTotal>
+                        <quantidade>32</quantidade>
+                        <precoMedio>36.00</precoMedio>
+                    </produto>
+                </porPrecoMedio>
+            </vendasOrdenadas>
+            <grafico>
+                <ponto total = "10000.20" data = "2017-05-01" />
+                <ponto total = "10000.20" data = "2017-05-07" />
+                <ponto total = "10000.20" data = "2017-05-14" />
+                <ponto total = "10000.20" data = "2017-05-21" />
+                <ponto total = "10000.20" data = "2017-05-28" />
+            </grafico>
+        </loja>
+    </lojas>
+</relatorio>
