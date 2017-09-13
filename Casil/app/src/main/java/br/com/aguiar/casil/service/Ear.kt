@@ -59,7 +59,7 @@ class Ear : Service() {
             val msg = String(packet!!.getData(), packet!!.getOffset(), packet!!.getLength())
             Log.i("MSG", msg)
             val notification = NotificationFactory<Ear>()
-            notification.generateNotification()
+            //notification.generateNotification()
             //socket?.close()
             uiThread {
                 doReceive(msg)
