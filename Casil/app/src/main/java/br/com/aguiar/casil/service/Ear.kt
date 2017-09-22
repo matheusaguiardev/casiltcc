@@ -51,6 +51,7 @@ class Ear : Service() {
     fun startListening() {
 
         doAsync {
+
             val packet = createPacket()
             Log.i("SOCKET", "Aguardando mensagem")
             socket?.receive(packet)
