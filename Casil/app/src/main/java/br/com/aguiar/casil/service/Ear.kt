@@ -49,7 +49,6 @@ class Ear : Service() {
     }
 
     fun startListening() {
-
         doAsync {
 
             val packet = createPacket()
